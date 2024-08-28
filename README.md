@@ -37,6 +37,7 @@
 
 ## 公式資料
 [「問題解決力を鍛える！アルゴリズムとデータ構造」の公式コード(C++)](https://github.com/drken1215/book_algorithm_solution/tree/bf4af1b13b6fb1f58b8a921ab319096422f064d6)
+
 [けんちょんさん(著者)のブログ](https://drken1215.hatenablog.com/entry/2020/08/10/041137)
 
 ![book](./image/book_image.png)
